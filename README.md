@@ -103,6 +103,9 @@ jsonContent:
 - [启用 Latex](https://github.com/fi3ework/hexo-theme-archer/wiki/%E5%90%AF%E7%94%A8-Latex-%E6%94%AF%E6%8C%81)
 - [切换为英文界面](https://github.com/fi3ework/hexo-theme-archer/wiki/%E8%8B%B1%E6%96%87%E7%95%8C%E9%9D%A2)
 
+## 注意
+所有主题配置都在 ```~/theme/archer/_config.yml``` 中修改，相关资源放在 ```~/theme/archer/source``` 中。
+
 ## 主题配置
 
 ```yaml
