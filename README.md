@@ -102,6 +102,7 @@ jsonContent:
 - [启用站内搜索](https://github.com/fi3ework/hexo-theme-archer/wiki/%E5%90%AF%E7%94%A8-Algolia-%E6%90%9C%E7%B4%A2)
 - [启用 Latex](https://github.com/fi3ework/hexo-theme-archer/wiki/%E5%90%AF%E7%94%A8-Latex-%E6%94%AF%E6%8C%81)
 - [切换为英文界面](https://github.com/fi3ework/hexo-theme-archer/wiki/%E8%8B%B1%E6%96%87%E7%95%8C%E9%9D%A2)
+- [去除博客目录自带的序号](https://github.com/LingfengZhu/hexo-theme-archer/wiki/%E5%8E%BB%E9%99%A4%E5%8D%9A%E5%AE%A2%E7%9B%AE%E5%BD%95%E8%87%AA%E5%B8%A6%E7%9A%84%E5%BA%8F%E5%8F%B7)
 
 ## 注意
 所有主题配置都在 ```~/theme/archer/_config.yml``` 中修改，相关资源放在 ```~/theme/archer/source``` 中。
